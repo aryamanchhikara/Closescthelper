@@ -1,1 +1,4 @@
+openCV
+streamlit
+tensorflow 
 
